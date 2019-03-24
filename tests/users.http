@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/v1/messages
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yzk1NjExOTZmZWQ4NjNlZDQzMGMxNDciLCJyb2xlIjoidXNlciIsImlhdCI6MTU1MzQ0NTQ2OH0.DR-tX2MPBXYLnwyu0FC1W5NcRllHqqmIxpIEKnqzamA
+
+{
+    "title": "New message",
+    "description": "Some description"
+}

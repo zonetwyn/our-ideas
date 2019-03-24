@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/v1/domains
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YzkzYmQxNjU5MTZlZTFiZDhjOTE1NzMiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE1NTMxOTM1NDAsImV4cCI6MTU1MzI3OTk0MH0.lPHeInUR9JiIaaZ4qt6MDuFBP0VOjR3QVIjW3JXxTs8
+
+{
+    "name": "Societe",
+    "description": "Domaine cree pour les discussions autour de la vie en societe"
+}

@@ -1,0 +1,9 @@
+POST http://localhost:5000/api/v1/subjects
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yzk1NjExOTZmZWQ4NjNlZDQzMGMxNDciLCJyb2xlIjoidXNlciIsImlhdCI6MTU1MzI5Mzk1MSwiZXhwIjoxNTUzMzgwMzUxfQ.2DUJQr0XPKiU1tBPYpP_B7eoZeURKeJkrvwEF0Dx4mM
+
+{
+    "title": "Subject 12",
+    "description": "Discussion sur l'etat actuel du systeme sanitaire",
+    "domains": ["5c93e9ab82e39c3ab85f0f61"]
+}

@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/v1/subjects/5c93ee4c4b4da531e4b4712a/ideas
+Content-Type: application/json
